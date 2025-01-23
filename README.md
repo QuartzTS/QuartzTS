@@ -11,6 +11,6 @@
 - 😉 This README file may get an update sooner or later.
 
 <!---
-QuartzTS456/QuartzTS456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QuartzTS/QuartzTS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
