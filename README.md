@@ -1,7 +1,7 @@
 # Welcome
 - 👋 Hi, My name is Marawan Essam.
 - 👀 I’m interested in computers, programming and information technology. I'd want to be a programmer one day.
-- 🌱 I’m currently learning Godot, Unity, HTML and Python. I may learn some other concepts and programming languages later.
+- 🌱 I’m currently learning Godot, Unity, HTML,  CSS, JavaScript and Python. I may learn some other concepts and programming languages later.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he, his, him (and so on...).
