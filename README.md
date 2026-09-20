@@ -1,5 +1,5 @@
 # Welcome
-- 🍲 Soup, My name is Marawan Essam.
+- 🍲 Soup, My name is Marawan Essam. My nickname is Quartz.
 - 👀 Interested in computers, programming and basically tech stuff.
 - 🌱 I’m currently learning Godot, HTML,  CSS, JavaScript and Python. I might learn Unity, Java, C and other stuff later on.
 - 💞️ I’m looking to collaborate on ...
@@ -10,6 +10,6 @@
 - 😉 This README file may get an update sooner or later.
 
 <!---
-QuartzTS/QuartzTS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QuartzTS/QuartzTS is a 💫 special 💫 repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
